@@ -1,0 +1,59 @@
+nav.menu-nav ul li.btn{
+	list-style-type: none;
+	display: inline-block;
+	background-color: black;
+}
+
+nav.menu-nav ul li.btn a{
+	padding: 10px;
+	text-decoration: none;
+	background-color: black;
+}
+
+nav.menu-nav ul li.btn:hover a{
+	color: black;
+	background-color: white;
+	transition: 1.0s;
+}
+
+footer{
+	background-color: black;
+	padding-left: 500px;
+}
+
+
+
+
+
+
+p{
+	color: #ff00dd ;
+}
+
+h2{
+	color: #fdfdfd ;
+}
+
+tiitle{
+	color: black;
+	padding-left: 687px;
+	font-weight: bold;
+}
+
+h2.headline{
+	font-size: 50px;
+	font-weight: bold;
+	padding-left: 600px;
+}
+
+a{
+	color: #0522da ;
+}
+
+
+
+
+
+body{
+	background: url("https://i.imgur.com/YCaoUON.gif");
+}
